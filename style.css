@@ -1,0 +1,25 @@
+h1{ color : rgb(204, 177, 177);
+margin-left:100px;
+padding-left:500px;
+}
+ * {border : solid }
+ .header {
+     background-color : #404040 ;
+justify-content : center ;
+text-align : center ;
+ }
+ .grid {
+     background-color: rgb(64, 64, 64) ;
+     justify-content: center ;
+     text-align: center ;
+     position: relative;
+     transform: translate(-50%,-50%);
+ }
+ a:hover{
+     background-color: rgb(250, 135, 135);
+     opacity:0.33;
+ }
+ a:hover{
+     color:aquamarine;
+     opacity:0.33;
+ }
